@@ -1,0 +1,20 @@
+{
+  "languages": [
+    "python", "java", "c++", "c", "javascript", "typescript", "html", "css",
+    "sql", "r", "go", "rust", "bash", "scala"
+  ],
+  "frameworks_and_libraries": [
+    "fastapi", "flask", "django", "react", "next.js", "node.js", "express",
+    "scikit-learn", "pandas", "numpy", "pytorch", "tensorflow", "keras",
+    "huggingface", "transformers", "xgboost", "lightgbm"
+  ],
+  "ai_ml_concepts": [
+    "machine learning", "deep learning", "nlp", "natural language processing",
+    "rag", "retrieval augmented generation", "computer vision", "generative ai",
+    "transformers", "bert", "embeddings", "vector search", "large language models", "llm"
+  ],
+  "tools_and_platforms": [
+    "git", "github", "docker", "kubernetes", "aws", "gcp", "azure", "linux",
+    "mongodb", "postgresql", "mysql", "redis", "postman", "vite"
+  ]
+}
